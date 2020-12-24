@@ -7,8 +7,7 @@ In this project, Detection of human action inside vehicle is studied by utilizin
 The data is collected by recuriting around 17 participants including male and female. A real vehicle is utilized to collect the all thedata during day time condition. Particulary, RGB sensor mounted on the front side(inside the vehicle) is used to effectively collect the participants movements. 
 
 ## Training Tools 
--Tensorflow and Keras framework 
-- Python 3.5
-- NVIDIA GeForce TITAN GPU 
-- Ubuntu 18.06
-
+Tensorflow and Keras framework 
+Python 3.5
+Ubuntu 18.06
+NVIDIA GeForce TITAN GPU
