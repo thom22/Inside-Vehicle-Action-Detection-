@@ -5,6 +5,7 @@ In this project, human action detection inside vehicle is studied by utilizing a
 
 ### Data Collection 
 Around 17 participants have involved in the data collection process including male and female. Actual vehicle environment is used to collect the data during day time condition.The participants were instructed to perform all the actions accordingly. Meanwhile, RGB sensor mounted on the front side(inside the vehicle) is used to capture the participant maneuvers.  
+ Since the research project is still on going the data are kept as confidential. 
 
 ### Training Tools 
 - Tensorflow and Keras framework 
