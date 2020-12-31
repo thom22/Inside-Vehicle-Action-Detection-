@@ -1,10 +1,10 @@
 # Inside-Vehicle-Action-Detection
 
 ## Summary
-In this project, Detection of human action inside vehicle is studied by utilizing transfer learning, where a model trained on large scale dataset(ImageNet) is reused to transfer its knowledge to the smaller datasets. Around 17 participants has involved in the data collection process. A convolutional neural network(CNN) is applied to learn the important features of the participant inside a vehicle and classifiy the activities. Various pre-trained CNN architectures are explored and, the effect of transfer learning and data augmentation is also carefully analyzed. 
+In this project,human action detection inside vehicle is studied by utilizing a convolutional neural network (CNN) based on transfer learning, where a model trained on large scale dataset(ImageNet) is reused to transfer its knowledge to the smaller datasets. . A convolutional neural network(CNN) is applied to learn the important features of the participant inside a vehicle and classifiy the activities. Various pretrained CNN architectures are explored and the effect of transfer learning and data augmentation is also carefully analyzed. 
 
 ### Data Collection 
-The data is collected by recuriting around 17 participants including male and female. A real vehicle is utilized to collect the all thedata during day time condition. Particulary, RGB sensor mounted on the front side(inside the vehicle) is used to effectively collect the participants movements. 
+Around 17 participants have involved in the data collection process including male and female. A real vehicle environment is used to collect the data during day time condition.The participants were instructed to perform all the actions accordingly. Meanwhile, RGB sensor mounted on the front side(inside the vehicle) is used to capture the participant maneuvers.  
 
 ## Training Tools 
 - Tensorflow and Keras framework 
